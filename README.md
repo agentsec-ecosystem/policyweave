@@ -1,7 +1,6 @@
-# <tool-name>
+# policyweave
 
-> One-line description of what this tool does and which of the four capabilities it provides
-> (monitor / alert / block-limit / revoke).
+> **Block / limit** — Compiles one Cedar policy into every harness's native policy format.
 
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
