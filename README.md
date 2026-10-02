@@ -2,6 +2,8 @@
 
 > **Block / limit** — Compiles one Cedar policy into every harness's native policy format.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/policyweave/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/policyweave)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
